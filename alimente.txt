@@ -1,0 +1,38 @@
+oua, 71, 20, 10, 5
+branza, 285, 24, 11, 1
+lapte, 50, 1, 3, 5
+corn cu ciocolata, 368, 22, 6, 35
+corn cu ciocolata, 368, 22, 6, 35
+ou, 75, 20, 10, 5
+varza, 31, 1, 0, 5
+varza calita, 82, 4, 7, 3
+rosii, 18, 0, 0, 3
+rosie, 18, 0, 0, 3
+ceapa, 42, 0, 0, 10
+piept de pui, 114, 2, 21, 0
+pulpa de porc, 143, 4, 26, 0
+covrig, 320, 1, 11, 71
+fulgi de porumb, 357, 0, 7, 85
+ardei, 24, 0, 1, 4
+castravete, 12, 0, 0, 2
+cod, 107, 1, 24, 0
+crap, 127, 5, 17, 0
+somon, 127, 4, 20, 0
+conserva de ton, 116, 1, 26, 0
+alune, 567, 49, 26, 16
+migdale, 578, 50, 21, 19
+nuci, 654, 65, 15, 13
+banane, 89, 0, 1, 22
+banana, 89, 0, 1, 22
+mar, 51, 0, 0, 12
+mere, 51, 0, 0, 12
+piersica, 39, 0, 0, 9
+piersici, 39, 0, 0, 9
+struguri, 69, 0, 0, 18
+portocale, 49, 0, 0, 11
+portocala, 49, 0, 0, 11
+cheeseburger, 263, 10, 13, 29
+hamburger, 255, 9, 13, 30
+chips, 539, 35, 6, 47
+popcorn, 432, 18, 8, 58
+pufuleti, 449, 13, 6, 74

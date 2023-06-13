@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1686394926 source:e:\proiectpoo\proiectpoo\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<cstring>
+	<fstream>
+	<vector>
+	"Mancare.h"
+	"Persoana.h"
+
+1684595057 source:e:\proiectpoo\proiectpoo\src\mancare.cpp
+	"Mancare.h"
+
+1686395325 e:\proiectpoo\proiectpoo\include\mancare.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<cstring>
+	<fstream>
+	<vector>
+	"Persoana.h"
+
+1684597775 source:e:\proiectpoo\proiectpoo\src\persoana.cpp
+	"Persoana.h"
+
+1684746538 e:\proiectpoo\proiectpoo\include\persoana.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<cstring>
+	<fstream>
+	<vector>
+
+1684591458 source:c:\users\hog4m\desktop\proiectpoo\src\mancare.cpp
+	"Mancare.h"
+
+1686393870 c:\users\hog4m\desktop\proiectpoo\include\mancare.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<cstring>
+	<fstream>
+	<vector>
+	"Persoana.h"
+
+1686393870 c:\users\hog4m\desktop\proiectpoo\include\persoana.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<cstring>
+	<fstream>
+	<vector>
+
+1684594176 source:c:\users\hog4m\desktop\proiectpoo\src\persoana.cpp
+	"Persoana.h"
+
+1686393870 source:c:\users\hog4m\desktop\proiectpoo\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<cstring>
+	<fstream>
+	<vector>
+	"Mancare.h"
+	"Persoana.h"
+
+1686418745 source:g:\proiectpoo\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<cstring>
+	<fstream>
+	<vector>
+	"Mancare.h"
+	"Persoana.h"
+
+1686672184 g:\proiectpoo\include\mancare.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<cstring>
+	<fstream>
+	<vector>
+	"Persoana.h"
+
+1686402751 g:\proiectpoo\include\persoana.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<cstring>
+	<fstream>
+	<vector>
+
+1684595058 source:g:\proiectpoo\src\mancare.cpp
+	"Mancare.h"
+
+1684597776 source:g:\proiectpoo\src\persoana.cpp
+	"Persoana.h"
+
